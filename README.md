@@ -4,7 +4,7 @@
 
 #### 🤔 Experience in: JavaScript, Java, Vue and AWS DevOps
 
-#### - 💬 I'm currently working on reminds.alextoop.com and alextoop.com
+#### 💬 I'm currently working on reminds.alextoop.com and alextoop.com
 
 <!--
 **AlexToop/alextoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
