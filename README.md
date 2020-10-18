@@ -1,6 +1,8 @@
 ### Welcome! 👋
 
-#### 🔭 I’m currently working in the BBC
+#### 🔭 Current employer: BBC, previous: BT
+
+#### 🤔 Experience in: JavaScript, Java, Vue and AWS DevOps
 
 <!--
 **AlexToop/alextoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
