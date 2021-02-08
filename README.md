@@ -1,10 +1,10 @@
-### Hi! 👋
+### Welcome to my GitHub profile! 👋
 
-#### 🔭 Current employer: BBC, previous: BT
+#### 🔭 BBC Sounds TV Software Engineer
 
-#### 🤔 Experience in: JavaScript, Java, Vue and AWS DevOps
+#### 🤔 Previous BBC iPlayer and Sounds Partner Experience Junior Software Engineer and BT TSO Industrial Placement Software Engineer
 
-#### 💬 I'm currently working on reminds.alextoop.com and alextoop.com
+#### 💬 Development of alextoop.com and reminds.alextoop.com
 
 <!--
 **AlexToop/alextoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
